@@ -1,0 +1,37 @@
+1542098990614	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xxbmm\\AppData\\Local\\Temp\\rust_mozprofile.jvG1SofsDiBA"
+1542099005312	mozrunner::runner	INFO	Running command: "D:\\Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xxbmm\\AppData\\Local\\Temp\\rust_mozprofile.8862grepc2oi"
+1542099006835	Marionette	INFO	Listening on port 63019
+1542099006985	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://passport.sinaimg.cn/js/sso/signup/common.js, line 11: unreachable code after return statement
+JavaScript warning: https://passport.sinaimg.cn/js/sso/cardtips.js, line 156: unreachable code after return statement
+JavaScript warning: https://passport.sinaimg.cn/js/sso/cardtips.js, line 156: unreachable code after return statement
+JavaScript warning: https://passport.sinaimg.cn/js/sso/signup/common.js, line 11: unreachable code after return statement
+JavaScript error: http://my.sina.com.cn/js/my/weather.js, line 26: ReferenceError: remote_ip_info is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript warning: https://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=991667e9fa889b31, line 1: unreachable code after return statement
+JavaScript warning: https://js2.t.sinajs.cn/t6/webim_prime/js/common/all.js?version=991667e9fa889b31, line 1: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1542099034002, line 139: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1542099034002, line 139: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1542099034002, line 172: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1542099034002, line 174: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1542099034002, line 198: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1542099034002, line 200: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1542099034002, line 207: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t6/webim_prime/js/webim.js?v=1542099034002, line 139: unreachable code after return statement
+JavaScript error: https://js1.t.sinajs.cn/t6/home/js/pl/rightmod/myinfo/index.js?version=991667e9fa889b31, line 11: TypeError: c.getAttribute is not a function
+JavaScript error: https://js1.t.sinajs.cn/t6/home/js/pl/rightmod/myinfo/index.js?version=991667e9fa889b31, line 11: TypeError: c.getAttribute is not a function
+JavaScript error: https://js1.t.sinajs.cn/t6/home/js/pl/rightmod/myinfo/index.js?version=991667e9fa889b31, line 11: TypeError: c.getAttribute is not a function
+JavaScript error: https://js1.t.sinajs.cn/t6/home/js/pl/rightmod/myinfo/index.js?version=991667e9fa889b31, line 11: TypeError: c.getAttribute is not a function
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/feed.js?version=20181101154600, line 25: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/feed.js?version=20181101154600, line 53: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/weiboFeedList.js?version=20181101154600, line 5: unreachable code after return statement
+JavaScript warning: https://js.t.sinajs.cn/t4/apps/searchpc/js/pc/js/conf/weiboFeedList.js?version=20181101154600, line 79: unreachable code after return statement
+[Parent 13616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346[
+Child 13984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Parent 13616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1542099121769	Marionette	INFO	Stopped listening on port 63019
+[GPU 13432, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

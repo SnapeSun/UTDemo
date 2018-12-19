@@ -1,0 +1,528 @@
+{
+  "registered_member": {
+    "unionid": "oPmunjiKpkBUXyn4yVXeRfqijj8w"
+  },
+  "registered_member1": {
+    "unionid": ""
+  },
+  "registered_member2": {
+    "unionid": ""
+  },
+  "login": {
+    "unionid": "oPmunjiKpkBUXyn4yVXeRfqijj8w"
+  },
+  "login1": {
+    "unionid": "oPmunjiKpkBUXyn4yVXeRfqijj8w-error"
+  },
+  "login2": {
+    "unionid": ""
+  },
+  "get_status": {
+    "unionid": ""
+  },
+  "get_status1": {
+    "unionid": ""
+  },
+  "get_status2": {
+    "unionid": "error"
+  },
+  "members_browsing_awards": {
+    "content_id": "",
+    "type": "GOODS"
+  },
+  "members_browsing_awards1": {
+    "content_id": "",
+    "type": "GOODS"
+  },
+  "members_browsing_awards2": {
+    "content_id": "",
+    "type": "GOODS"
+  },
+  "members_browsing_awards3": {
+    "content_id": "",
+    "type": "VIDEO"
+  },
+  "members_browsing_awards4": {
+    "content_id": "",
+    "type": "VIDEO"
+  },
+  "members_browsing_awards5": {
+    "content_id": "",
+    "type": "ARTICLE"
+  },
+  "members_browsing_awards6": {
+    "content_id": "",
+    "type": "ARTICLE"
+  },
+  "members_browsing_awards7": {
+    "content_id": "",
+    "type": "VOICE"
+  },
+  "members_browsing_awards8": {
+    "content_id": "",
+    "type": "VOICE"
+  },
+  "members_browsing_awards9": {
+    "content_id": "",
+    "type": ""
+  },
+  "members_browsing_awards10": {
+    "content_id": "",
+    "type": "error"
+  },
+  "order_received_amount": {
+    "order": [
+      {
+        "order_id": "13",
+        "money": 1.2
+      },
+      {
+        "order_id": "14",
+        "money": 1.4
+      }
+    ],
+    "order_customer_name": "张三",
+    "order_customer_unionid": ""
+  },
+  "order_received_amount1": {
+    "order": [
+      {
+        "order_id": "13",
+        "money": 1.2
+      },
+      {
+        "order_id": "14",
+        "money": 1.4
+      }
+    ],
+    "order_customer_name": "张三",
+    "order_customer_unionid": ""
+  },
+  "order_received_amount2": {
+    "order": [
+      {
+        "order_id": "13",
+        "money": 1.2
+      },
+      {
+        "order_id": "14",
+        "money": 1.4
+      }
+    ],
+    "order_customer_name": "张三",
+    "order_customer_unionid": "error"
+  },
+  "order_received_amount3": {
+    "order": [
+      {
+        "order_id": "13",
+        "money": 1.2
+      },
+      {
+        "order_id": "14",
+        "money": 1.4
+      }
+    ],
+    "order_customer_name": "",
+    "order_customer_unionid": ""
+  },
+  "order_received_amount4": {
+    "order": [
+      {
+        "order_id": "13",
+        "money": ""
+      },
+      {
+        "order_id": "14",
+        "money": 1.4
+      }
+    ],
+    "order_customer_name": "张三",
+    "order_customer_unionid": ""
+  },
+  "order_received_amount5": {
+    "order": [
+      {
+        "order_id": "13",
+        "money": "error"
+      },
+      {
+        "order_id": "14",
+        "money": 1.4
+      }
+    ],
+    "order_customer_name": "张三",
+    "order_customer_unionid": ""
+  },
+  "order_received_amount6": {
+    "order": [
+    ],
+    "order_customer_name": "张三",
+    "order_customer_unionid": ""
+  },
+  "order_received_amount7": {
+    "order": [
+      {
+      }
+    ],
+    "order_customer_name": "张三",
+    "order_customer_unionid": ""
+  },
+  "members_share_rewards": {
+    "content_id": "",
+    "customer_type": "NEW",
+    "share_type": "GOODS",
+    "share_uid": "",
+    "wechat_name": "张三"
+  },
+  "members_share_rewards1": {
+    "content_id": "",
+    "customer_type": "NEW",
+    "share_type": "GOODS",
+    "share_uid": "",
+    "wechat_name": "张三"
+  },
+  "members_share_rewards2": {
+    "content_id": "",
+    "customer_type": "OLD",
+    "share_type": "GOODS",
+    "share_uid": "",
+    "wechat_name": "张三"
+  },
+  "members_share_rewards3": {
+    "content_id": "",
+    "customer_type": "error",
+    "share_type": "GOODS",
+    "share_uid": "",
+    "wechat_name": "张三"
+  },
+  "members_share_rewards4": {
+    "content_id": "",
+    "customer_type": "",
+    "share_type": "GOODS",
+    "share_uid": "",
+    "wechat_name": "张三"
+  },
+  "members_share_rewards5": {
+    "content_id": "",
+    "customer_type": "NEW",
+    "share_type": "VIDEO",
+    "share_uid": "",
+    "wechat_name": "张三"
+  },
+  "members_share_rewards6": {
+    "content_id": "",
+    "customer_type": "NEW",
+    "share_type": "VIDEO",
+    "share_uid": "",
+    "wechat_name": "张三"
+  },
+  "members_share_rewards7": {
+    "content_id": "",
+    "customer_type": "NEW",
+    "share_type": "RTICLE",
+    "share_uid": "",
+    "wechat_name": "张三"
+  },
+  "members_share_rewards8": {
+    "content_id": "",
+    "customer_type": "NEW",
+    "share_type": "RTICLE",
+    "share_uid": "",
+    "wechat_name": "张三"
+  },
+  "members_share_rewards9": {
+    "content_id": "",
+    "customer_type": "NEW",
+    "share_type": "VOICE",
+    "share_uid": "",
+    "wechat_name": "张三"
+  },
+  "members_share_rewards10": {
+    "content_id": "",
+    "customer_type": "NEW",
+    "share_type": "VOICE",
+    "share_uid": "",
+    "wechat_name": "张三"
+  },
+  "members_share_rewards11": {
+    "content_id": "",
+    "customer_type": "NEW",
+    "share_type": "HOME",
+    "share_uid": "",
+    "wechat_name": "张三"
+  },
+  "members_share_rewards12": {
+    "content_id": "",
+    "customer_type": "NEW",
+    "share_type": "HOME",
+    "share_uid": "",
+    "wechat_name": "张三"
+  },
+  "members_share_rewards13": {
+    "content_id": "",
+    "customer_type": "NEW",
+    "share_type": "",
+    "share_uid": "",
+    "wechat_name": "张三"
+  },
+  "members_share_rewards14": {
+    "content_id": "",
+    "customer_type": "NEW",
+    "share_type": "error",
+    "share_uid": "",
+    "wechat_name": "张三"
+  },
+  "members_share_rewards15": {
+    "content_id": "",
+    "customer_type": "NEW",
+    "share_type": "GOODS",
+    "share_uid": "",
+    "wechat_name": "张三"
+  },
+  "members_share_rewards16": {
+    "content_id": "",
+    "customer_type": "NEW",
+    "share_type": "GOODS",
+    "share_uid": "error",
+    "wechat_name": "张三"
+  },
+  "members_share_rewards17": {
+    "content_id": "",
+    "customer_type": "NEW",
+    "share_type": "GOODS",
+    "share_uid": "",
+    "wechat_name": "张三"
+  },
+  "members_share_rewards18": {
+    "content_id": "",
+    "customer_type": "NEW",
+    "share_type": "GOODS",
+    "share_uid": "",
+    "wechat_name": ""
+  },
+  "order_to_deduct_gold_coins": {
+    "gold": "",
+    "unionid": ""
+  },
+  "order_to_deduct_gold_coins1": {
+    "gold": "",
+    "unionid": ""
+  },
+  "order_to_deduct_gold_coins2": {
+    "gold": "",
+    "unionid": ""
+  },
+  "order_to_deduct_gold_coins3": {
+    "gold": "",
+    "unionid": ""
+  },
+  "order_to_deduct_gold_coins4": {
+    "gold": "",
+    "unionid": "error"
+  },
+  "conversion_amount_of_gold_coins": {
+    "money": 1,
+    "order_id": "123",
+    "unionid": ""
+  },
+  "conversion_amount_of_gold_coins1": {
+    "money": "",
+    "order_id": "123",
+    "unionid": ""
+  },
+  "conversion_amount_of_gold_coins2": {
+    "money": "error",
+    "order_id": "123",
+    "unionid": ""
+  },
+  "conversion_amount_of_gold_coins3": {
+    "money": 1,
+    "order_id": "",
+    "unionid": ""
+  },
+  "conversion_amount_of_gold_coins4": {
+    "money": 1,
+    "order_id": "123",
+    "unionid": ""
+  },
+  "conversion_amount_of_gold_coins5": {
+    "money": 1,
+    "order_id": "123",
+    "unionid": "error"
+  },
+  "get_member_account_details": {
+    "page": "10",
+    "size": "10",
+    "type": "INCREASE "
+  },
+  "get_member_account_details1": {
+    "page": "10",
+    "size": "10",
+    "type": "REDUCE "
+  },
+  "get_member_account_details2": {
+    "page": "10",
+    "size": "10"
+  },
+  "get_member_account_details3": {
+    "page": "10",
+    "size": "10",
+    "type": "error "
+  },
+  "get_member_account_details4": {
+    "size": "10",
+    "type": "INCREASE "
+  },
+  "get_member_account_details5": {
+    "page": "error",
+    "size": "10",
+    "type": "INCREASE "
+  },
+  "get_member_account_details6": {
+    "page": "10",
+    "size": "",
+    "type": "INCREASE "
+  },
+  "get_member_account_details7": {
+    "page": "10",
+    "size": "error",
+    "type": "INCREASE "
+  },
+  "get_member_account_details8": {
+    "size": "",
+    "type": "INCREASE "
+  },
+  "pagp": {
+    "page": "10",
+    "size": "10"
+  },
+  "pagp1": {
+    "page": "10",
+    "size": "10",
+    "status": "ALREADY_ARRIVED "
+  },
+  "pagp2": {
+    "page": "10",
+    "size": "10",
+    "status": "WAITING_ACCOUNT "
+  },
+  "pagp3": {
+    "page": "10",
+    "size": "10",
+    "status": "FAILURE "
+  },
+  "pagp4": {
+    "size": "10",
+    "status": "INCREASE "
+  },
+  "pagp5": {
+    "page": "error",
+    "size": "10",
+    "status": "INCREASE "
+  },
+  "pagp6": {
+    "page": "10",
+    "size": "",
+    "status": "INCREASE "
+  },
+  "pagp7": {
+    "page": "10",
+    "size": "error",
+    "status": "INCREASE "
+  },
+  "pagp8": {
+    "size": "",
+    "status": "INCREASE "
+  },
+  "money_is_transferred_to_the_account": {
+    "order_ids": [
+      "12",
+      "13"
+    ]
+  },
+  "money_is_transferred_to_the_account1": {
+  },
+  "member_invitation_list": {
+    "page": "10",
+    "size": "10"
+  },
+  "member_invitation_list1": {
+    "size": "10"
+  },
+  "member_invitation_list2": {
+    "page": "error",
+    "size": "10"
+  },
+  "member_invitation_list3": {
+    "page": "10",
+    "size": ""
+  },
+  "member_invitation_list4": {
+    "page": "10",
+    "size": "error"
+  },
+  "member_invitation_list5": {
+    "size": ""
+  },
+  "member_invitations_binding": {
+    "invitee_header": "https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIucVRxNcFdFTc1ozUdWeRJW5viaPia178VJZ1wY7MH0mCnicfdjNmOSOY0s6D7zTOo7Q7zMrBDzhX4A/132",
+    "invitee_name": "李四",
+    "inviter_header": "https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJ9sicl7YJBWNk7zshoW6ZKHPFezrrKBC1pcELsaGCCKqXIYicQ8xP76KxYz8JjAf9e1QzFZBknQA3A/132",
+    "inviter_id": 17,
+    "inviter_name": "张三"
+  },
+  "member_invitations_binding1": {
+    "invitee_header": "https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIucVRxNcFdFTc1ozUdWeRJW5viaPia178VJZ1wY7MH0mCnicfdjNmOSOY0s6D7zTOo7Q7zMrBDzhX4A/132",
+    "invitee_name": "李四",
+    "inviter_header": "https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJ9sicl7YJBWNk7zshoW6ZKHPFezrrKBC1pcELsaGCCKqXIYicQ8xP76KxYz8JjAf9e1QzFZBknQA3A/132",
+    "inviter_id": "",
+    "inviter_name": "张三"
+  },
+  "member_invitations_binding2": {
+    "invitee_header": "https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIucVRxNcFdFTc1ozUdWeRJW5viaPia178VJZ1wY7MH0mCnicfdjNmOSOY0s6D7zTOo7Q7zMrBDzhX4A/132",
+    "invitee_name": "李四",
+    "inviter_header": "https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJ9sicl7YJBWNk7zshoW6ZKHPFezrrKBC1pcELsaGCCKqXIYicQ8xP76KxYz8JjAf9e1QzFZBknQA3A/132",
+    "inviter_id": "error",
+    "inviter_name": "张三"
+  },
+  "sign_in_reminder": {
+    "sign_remind": true
+  },
+  "sign_in_reminder1": {
+    "sign_remind": false
+  },
+  "sign_in_reminder2": {
+    "sign_remind": ""
+  },
+  "sign_in_reminder3": {
+    "sign_remind": "error"
+  },
+  "telephone": {
+    "telephone": 18700000000
+  },
+  "add_event": {
+    "eid": "10",
+    "name": "华为mate10发布会",
+    "limit": "30000",
+    "status": "0",
+    "address": "屯留大会堂",
+    "start_time": "2018-09-15 22:40:00"
+  },
+  "add_event1": {
+    "eid": "10",
+    "name": "华为mate11发布会",
+    "limit": "30000",
+    "status": "0",
+    "address": "屯留大会堂",
+    "start_time": "2018-09-15 22:40:00"
+  },
+  "add_event2": {
+    "eid": "10",
+    "name": "华为mate10发布会",
+    "limit": "30000",
+    "status": "0",
+    "address": "屯留大会堂",
+    "start_time": "2018-09-15 22:40:00"
+  }
+}

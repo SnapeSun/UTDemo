@@ -1,0 +1,159 @@
+[2018-12-19 11:03:03,989] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 11:03:03,990] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":true}
+[2018-12-19 11:03:03,990] - logger.py] - INFO: test_01 系统接口 interface execute success 
+[2018-12-19 11:03:04,044] - logger.py] - INFO: 原设定的检查点---> OLD
+[2018-12-19 11:03:04,045] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"customer_id":74,"recommend_gold":0}}
+[2018-12-19 11:03:04,097] - logger.py] - INFO: 原设定的检查点---> NEW
+[2018-12-19 11:03:04,098] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"customer_id":258,"recommend_gold":0}}
+[2018-12-19 11:03:04,143] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 11:03:04,144] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"uid":258,"ukey":"21f765af6d385c18c06f051a86036a54"}}
+[2018-12-19 11:03:04,144] - logger.py] - INFO: test_04 会员登录-正常传参 interface execute success 
+[2018-12-19 11:03:04,196] - logger.py] - INFO: 原设定的检查点---> gold
+[2018-12-19 11:03:04,197] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":false,"msg":"会员 258 当日已签到","error_code":10002,"data":false}
+[2018-12-19 11:03:04,249] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 11:03:04,249] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"sign_day":2,"sign_remind":false,"sign_bout":0,"customer_state":false,"regist_channel":"SHOP","regist_channel_cn":"小小包麻麻"}}
+[2018-12-19 11:03:04,250] - logger.py] - INFO: test_06 获取会员信息 interface execute success 
+[2018-12-19 11:03:04,299] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 11:03:04,299] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"id":258,"gold":226.75,"use_gold":0.00,"all_gold":226.75,"money":0.00,"use_money":0.00,"all_money":0.00,"waiting_account_money":0.00,"clean_time":null,"clean_remind":null,"first_withd":"YES","gold_day":0.30}}
+[2018-12-19 11:03:04,300] - logger.py] - INFO: test_07 获取会员账户信息 interface execute success 
+[2018-12-19 11:03:04,346] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 11:03:04,346] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":""}
+[2018-12-19 11:03:04,347] - logger.py] - INFO: test_08 获取会员手机号 interface execute success 
+[2018-12-19 11:19:51,364] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 11:19:51,365] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":true}
+[2018-12-19 11:19:51,365] - logger.py] - INFO: test_01 系统接口 interface execute success 
+[2018-12-19 11:19:51,421] - logger.py] - INFO: 原设定的检查点---> OLD
+[2018-12-19 11:19:51,421] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"customer_id":74,"recommend_gold":0}}
+[2018-12-19 11:19:51,478] - logger.py] - INFO: 原设定的检查点---> NEW
+[2018-12-19 11:19:51,478] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"customer_id":258,"recommend_gold":0}}
+[2018-12-19 11:19:51,530] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 11:19:51,530] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"uid":258,"ukey":"21f765af6d385c18c06f051a86036a54"}}
+[2018-12-19 11:19:51,530] - logger.py] - INFO: test_04 会员登录-正常传参 interface execute success 
+[2018-12-19 11:19:51,581] - logger.py] - INFO: 原设定的检查点---> 签到
+[2018-12-19 11:19:51,581] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":false,"msg":"会员 258 当日已签到","error_code":10002,"data":false}
+[2018-12-19 11:19:51,582] - logger.py] - INFO: test_05 会员签到 interface execute success 
+[2018-12-19 11:19:51,638] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 11:19:51,638] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"sign_day":2,"sign_remind":false,"sign_bout":0,"customer_state":false,"regist_channel":"SHOP","regist_channel_cn":"小小包麻麻"}}
+[2018-12-19 11:19:51,639] - logger.py] - INFO: test_06 获取会员信息 interface execute success 
+[2018-12-19 11:19:51,692] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 11:19:51,693] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"id":258,"gold":226.75,"use_gold":0.00,"all_gold":226.75,"money":0.00,"use_money":0.00,"all_money":0.00,"waiting_account_money":0.00,"clean_time":null,"clean_remind":null,"first_withd":"YES","gold_day":0.30}}
+[2018-12-19 11:19:51,693] - logger.py] - INFO: test_07 获取会员账户信息 interface execute success 
+[2018-12-19 11:19:51,742] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 11:19:51,742] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":""}
+[2018-12-19 11:19:51,743] - logger.py] - INFO: test_08 获取会员手机号 interface execute success 
+[2018-12-19 11:42:40,954] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 11:42:40,955] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":true}
+[2018-12-19 11:42:40,955] - logger.py] - INFO: test_01 系统接口 interface execute success 
+[2018-12-19 11:42:41,008] - logger.py] - INFO: 原设定的检查点---> 成功
+[2018-12-19 11:42:41,008] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"customer_id":258,"recommend_gold":0}}
+[2018-12-19 11:42:41,009] - logger.py] - INFO: test_02 注册会员-会员类型 OLD interface execute success 
+[2018-12-19 11:42:41,062] - logger.py] - INFO: 原设定的检查点---> "recommend_gold": 0
+[2018-12-19 11:42:41,063] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"customer_id":258,"recommend_gold":0}}
+[2018-12-19 11:42:41,110] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 11:42:41,111] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"uid":258,"ukey":"21f765af6d385c18c06f051a86036a54"}}
+[2018-12-19 11:42:41,111] - logger.py] - INFO: test_04 会员登录-正常传参 interface execute success 
+[2018-12-19 11:42:41,163] - logger.py] - INFO: 原设定的检查点---> 签到
+[2018-12-19 11:42:41,163] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":false,"msg":"会员 258 当日已签到","error_code":10002,"data":false}
+[2018-12-19 11:42:41,164] - logger.py] - INFO: test_05 会员签到 interface execute success 
+[2018-12-19 11:42:41,221] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 11:42:41,222] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"sign_day":2,"sign_remind":false,"sign_bout":0,"customer_state":false,"regist_channel":"SHOP","regist_channel_cn":"小小包麻麻"}}
+[2018-12-19 11:42:41,223] - logger.py] - INFO: test_06 获取会员信息 interface execute success 
+[2018-12-19 11:42:41,272] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 11:42:41,273] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"id":258,"gold":226.75,"use_gold":0.00,"all_gold":226.75,"money":0.00,"use_money":0.00,"all_money":0.00,"waiting_account_money":0.00,"clean_time":null,"clean_remind":null,"first_withd":"YES","gold_day":0.30}}
+[2018-12-19 11:42:41,273] - logger.py] - INFO: test_07 获取会员账户信息 interface execute success 
+[2018-12-19 11:42:41,321] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 11:42:41,322] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":""}
+[2018-12-19 11:42:41,322] - logger.py] - INFO: test_08 获取会员手机号 interface execute success 
+[2018-12-19 11:56:30,817] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 11:56:30,818] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":true}
+[2018-12-19 11:56:30,819] - logger.py] - INFO: test_01 系统接口 interface execute success 
+[2018-12-19 11:56:30,895] - logger.py] - INFO: 原设定的检查点---> 成功
+[2018-12-19 11:56:30,897] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"customer_id":258,"recommend_gold":0}}
+[2018-12-19 11:56:30,898] - logger.py] - INFO: test_02 注册会员-会员类型 OLD interface execute success 
+[2018-12-19 11:56:30,949] - logger.py] - INFO: 原设定的检查点---> "recommend_gold": 0
+[2018-12-19 11:56:30,950] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"customer_id":258,"recommend_gold":0}}
+[2018-12-19 11:56:30,999] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 11:56:30,999] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"uid":258,"ukey":"21f765af6d385c18c06f051a86036a54"}}
+[2018-12-19 11:56:31,000] - logger.py] - INFO: test_04 会员登录-正常传参 interface execute success 
+[2018-12-19 11:56:31,048] - logger.py] - INFO: 原设定的检查点---> 签到
+[2018-12-19 11:56:31,049] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":false,"msg":"会员 258 当日已签到","error_code":10002,"data":false}
+[2018-12-19 11:56:31,050] - logger.py] - INFO: test_05 会员签到 interface execute success 
+[2018-12-19 11:56:31,103] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 11:56:31,103] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"sign_day":2,"sign_remind":false,"sign_bout":0,"customer_state":false,"regist_channel":"SHOP","regist_channel_cn":"小小包麻麻"}}
+[2018-12-19 11:56:31,104] - logger.py] - INFO: test_06 获取会员信息 interface execute success 
+[2018-12-19 11:56:31,157] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 11:56:31,157] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"id":258,"gold":226.75,"use_gold":0.00,"all_gold":226.75,"money":0.00,"use_money":0.00,"all_money":0.00,"waiting_account_money":0.00,"clean_time":null,"clean_remind":null,"first_withd":"YES","gold_day":0.30}}
+[2018-12-19 11:56:31,158] - logger.py] - INFO: test_07 获取会员账户信息 interface execute success 
+[2018-12-19 11:56:31,204] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 11:56:31,205] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":""}
+[2018-12-19 11:56:31,205] - logger.py] - INFO: test_08 获取会员手机号 interface execute success 
+[2018-12-19 13:41:34,263] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 13:41:34,264] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":true}
+[2018-12-19 13:41:34,264] - logger.py] - INFO: test_01 系统接口 interface execute success 
+[2018-12-19 13:41:34,320] - logger.py] - INFO: 原设定的检查点---> 成功
+[2018-12-19 13:41:34,321] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"customer_id":258,"recommend_gold":0}}
+[2018-12-19 13:41:34,321] - logger.py] - INFO: test_02 注册会员-会员类型 OLD interface execute success 
+[2018-12-19 13:41:34,397] - logger.py] - INFO: 原设定的检查点---> "suc": true,"msg": "成功","error_code":10001
+[2018-12-19 13:41:34,398] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"customer_id":400,"recommend_gold":0}}
+[2018-12-19 13:41:34,447] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 13:41:34,448] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"uid":400,"ukey":"74f10b168c0267b5c6034513a8e165c9"}}
+[2018-12-19 13:41:34,448] - logger.py] - INFO: test_04 会员登录-正常传参 interface execute success 
+[2018-12-19 13:41:34,655] - logger.py] - INFO: 原设定的检查点---> 签到
+[2018-12-19 13:41:34,655] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"gold":0.20}}
+[2018-12-19 13:41:34,710] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 13:41:34,711] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"sign_day":1,"sign_remind":false,"sign_bout":0,"customer_state":false,"regist_channel":"TEST","regist_channel_cn":"测试渠道"}}
+[2018-12-19 13:41:34,711] - logger.py] - INFO: test_06 获取会员信息 interface execute success 
+[2018-12-19 13:41:34,762] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 13:41:34,762] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"id":400,"gold":0.20,"use_gold":0,"all_gold":0.20,"money":0,"use_money":0,"all_money":0,"waiting_account_money":0,"clean_time":null,"clean_remind":null,"first_withd":"YES","gold_day":0.20}}
+[2018-12-19 13:41:34,763] - logger.py] - INFO: test_07 获取会员账户信息 interface execute success 
+[2018-12-19 13:41:34,812] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 13:41:34,813] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":""}
+[2018-12-19 13:41:34,813] - logger.py] - INFO: test_08 获取会员手机号 interface execute success 
+[2018-12-19 13:51:43,723] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 13:51:43,723] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":true}
+[2018-12-19 13:51:43,723] - logger.py] - INFO: test_01 系统接口 interface execute success 
+[2018-12-19 13:51:43,776] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 13:51:43,776] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"customer_id":258,"recommend_gold":0}}
+[2018-12-19 13:51:43,777] - logger.py] - INFO: test_02 注册会员-会员类型 OLD interface execute success 
+[2018-12-19 13:51:43,853] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 13:51:43,853] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"customer_id":401,"recommend_gold":0}}
+[2018-12-19 13:51:43,854] - logger.py] - INFO: test_03 注册会员-会员类型 NEW interface execute success 
+[2018-12-19 13:51:43,905] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 13:51:43,906] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"uid":401,"ukey":"be539b736bb584de2d15332a005267c9"}}
+[2018-12-19 13:51:43,906] - logger.py] - INFO: test_04 会员登录-正常传参 interface execute success 
+[2018-12-19 13:51:44,117] - logger.py] - INFO: 原设定的检查点---> gold
+[2018-12-19 13:51:44,118] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"gold":0.20}}
+[2018-12-19 13:51:44,119] - logger.py] - INFO: test_05 会员签到 interface execute success 
+[2018-12-19 13:51:44,175] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 13:51:44,176] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"sign_day":1,"sign_remind":false,"sign_bout":0,"customer_state":false,"regist_channel":"TEST","regist_channel_cn":"测试渠道"}}
+[2018-12-19 13:51:44,177] - logger.py] - INFO: test_06 获取会员信息 interface execute success 
+[2018-12-19 13:51:44,238] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 13:51:44,238] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"id":401,"gold":0.20,"use_gold":0,"all_gold":0.20,"money":0,"use_money":0,"all_money":0,"waiting_account_money":0,"clean_time":null,"clean_remind":null,"first_withd":"YES","gold_day":0.20}}
+[2018-12-19 13:51:44,239] - logger.py] - INFO: test_07 获取会员账户信息 interface execute success 
+[2018-12-19 13:51:44,288] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 13:51:44,289] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":""}
+[2018-12-19 13:51:44,290] - logger.py] - INFO: test_08 获取会员手机号 interface execute success 
+[2018-12-19 16:46:10,629] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 16:46:10,629] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":true}
+[2018-12-19 16:46:10,630] - logger.py] - INFO: test_01 系统接口 interface execute success 
+[2018-12-19 16:46:10,686] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 16:46:10,686] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"customer_id":258,"recommend_gold":0}}
+[2018-12-19 16:46:10,687] - logger.py] - INFO: test_02 注册会员-会员类型 OLD interface execute success 
+[2018-12-19 16:46:10,797] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 16:46:10,798] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"customer_id":402,"recommend_gold":0}}
+[2018-12-19 16:46:10,798] - logger.py] - INFO: test_03 注册会员-会员类型 NEW interface execute success 
+[2018-12-19 16:46:10,844] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 16:46:10,845] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"uid":402,"ukey":"c67953869e77c6f5449e62ac6a6be2c3"}}
+[2018-12-19 16:46:10,845] - logger.py] - INFO: test_04 会员登录-正常传参 interface execute success 
+[2018-12-19 16:46:11,051] - logger.py] - INFO: 原设定的检查点---> gold
+[2018-12-19 16:46:11,052] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"gold":0.20}}
+[2018-12-19 16:46:11,052] - logger.py] - INFO: test_05 会员签到 interface execute success 
+[2018-12-19 16:46:11,100] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 16:46:11,101] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"sign_day":1,"sign_remind":false,"sign_bout":0,"customer_state":false,"regist_channel":"TEST","regist_channel_cn":"测试渠道"}}
+[2018-12-19 16:46:11,101] - logger.py] - INFO: test_06 获取会员信息 interface execute success 
+[2018-12-19 16:46:11,152] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 16:46:11,153] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":{"id":402,"gold":0.20,"use_gold":0,"all_gold":0.20,"money":0,"use_money":0,"all_money":0,"waiting_account_money":0,"clean_time":null,"clean_remind":null,"first_withd":"YES","gold_day":0.20}}
+[2018-12-19 16:46:11,153] - logger.py] - INFO: test_07 获取会员账户信息 interface execute success 
+[2018-12-19 16:46:11,200] - logger.py] - INFO: 原设定的检查点---> "suc":true,"msg":"成功","error_code":10001
+[2018-12-19 16:46:11,200] - logger.py] - INFO: 请求结果返回的检查点---> {"suc":true,"msg":"成功","error_code":10001,"data":""}
+[2018-12-19 16:46:11,201] - logger.py] - INFO: test_08 获取会员手机号 interface execute success 
